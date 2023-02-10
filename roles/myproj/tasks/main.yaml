@@ -1,0 +1,3 @@
+- name: ---------------script mod------------
+  script: myscript.sh
+  tags: script_mod
